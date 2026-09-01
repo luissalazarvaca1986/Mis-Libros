@@ -2,6 +2,10 @@
 
 Bienvenido/a. Este repositorio es mi estantería pública: aquí subo, de forma periódica, las publicaciones que voy desarrollando. Cada vez que termine un nuevo libro, ensayo o material, lo encontrarás en esta carpeta.
 
+### 💬 [Deja tu comentario sobre los libros aquí](https://github.com/luissalazarvaca1986/Mis-Libros/discussions)
+
+[![Comentarios](https://img.shields.io/github/discussions/luissalazarvaca1986/Mis-Libros?label=comentarios&logo=github&style=for-the-badge&color=0A66C2)](https://github.com/luissalazarvaca1986/Mis-Libros/discussions)
+
 ## Publicaciones disponibles
 
 | Título | Archivo |
@@ -32,8 +36,8 @@ Me interesa mucho saber qué te parecen los libros: qué te resonó, qué no, qu
 
 Hay dos formas de comentar:
 
-- **Discusiones** — el espacio principal para conversar sobre los libros: ve a la pestaña [**Discussions**](../../discussions) y abre un tema nuevo o responde uno existente.
-- **Issues** — si prefieres dejar una observación puntual, una corrección o reportar una errata, abre un [issue](../../issues/new).
+- **[💬 Ver y escribir comentarios (Discussions)](https://github.com/luissalazarvaca1986/Mis-Libros/discussions)** — el espacio principal para conversar sobre los libros. Puedes responder un tema existente o [**abrir un comentario nuevo**](https://github.com/luissalazarvaca1986/Mis-Libros/discussions/new/choose).
+- **[📝 Reportar una errata o corrección (Issues)](https://github.com/luissalazarvaca1986/Mis-Libros/issues/new)** — si prefieres dejar una observación puntual sobre el texto.
 
 Si tu comentario es sobre el código de un libro, también puedes dejarlo directamente en el repositorio de ese libro.
 
