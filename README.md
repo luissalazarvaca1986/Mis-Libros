@@ -17,8 +17,8 @@ Los ejemplos y el código que describo dentro de cada libro no están aquí: cad
 
 Te invito a revisarlos:
 
-- [Invadiendo Espacios](https://github.com/luissalazarvaca1986/Invadiendo-Espacios) — código del libro *Invadiendo Espacios*
-- [Pensando Fuera de la Caja](https://github.com/luissalazarvaca1986/Pensando-Fuera-de-la-Caja) — código del libro *Pensando Fuera de la Caja*
+- [Invadiendo Espacios](https://github.com/luissalazarvaca1986/Invadiendo-espacios) — código del libro *Invadiendo Espacios*
+- [Pensando Fuera de la Caja](https://github.com/luissalazarvaca1986/Pensando-fuera-de-la-caja) — código del libro *Pensando Fuera de la Caja*
 
 Puedes ver todos mis repositorios en [mi perfil](https://github.com/luissalazarvaca1986?tab=repositories). Regla sencilla: si el libro se llama *X*, su código está en el repositorio *X*.
 
