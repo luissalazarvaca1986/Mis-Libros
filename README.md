@@ -48,4 +48,12 @@ Todos los comentarios respetuosos son bienvenidos, incluidas las críticas. Resp
 
 ## Sobre el uso de estos textos
 
-Estas publicaciones se comparten para su lectura. Si deseas citarlas, reproducirlas o usarlas en otro contexto, escríbeme antes por aquí.
+**Cada libro lleva sus condiciones escritas en su propia página de créditos, detrás de la carátula, y es esa página la que manda.** En resumen:
+
+- Se permite **leer, descargar y distribuir copias íntegras y gratuitas** para fines personales, educativos, académicos y de investigación, sin modificar el contenido, conservando esa página y reconociendo la autoría.
+- **No** se autoriza venderlos, adaptarlos, publicarlos bajo otra autoría ni distribuir versiones alteradas sin mi consentimiento previo.
+- Si tu trabajo se apoya en lo que desarrollo en ellos, **reconoce de dónde viene**. Cada libro dice en su página de créditos qué es lo suyo y qué no reclama como propio.
+
+*Invadiendo Espacios* lleva además un **aviso legal** sobre el videojuego que analiza: Space Invaders se usa como referencia cultural y caso de estudio, y el libro no está afiliado ni respaldado por los titulares de esa marca.
+
+Para cualquier otro uso, escríbeme por aquí.
